@@ -1,10 +1,9 @@
 {
-  "v": "2.1.4",
-  "ts": 1704067200000,
+  "v": "2.1.5",
   "d": [],
   "b": [],
-  "r": {
-    "u": "aHR0cHM6Ly9uZXhnZW5wbHVnaW5zLmNvbS9leHBpcmVk",
-    "i": 86400000
+  "c": {
+    "i": 86400000,
+    "r": "aHR0cHM6Ly9uZXhnZW5wbHVnaW5zLmNvbS9saWNlbnNlLWV4cGlyZWQ="
   }
 }
